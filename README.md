@@ -92,7 +92,8 @@ Vector2 GravitationalPull(Rigidbody2D primary_object, Rigidbody2D secondary_obje
 ```
 
 ### How much better you may ask.
-Well, let ${\color{Emarald} E_f(n)}$ be an estimate of calculation reduction. 
+
+Well, let ![equation](https://latex.codecogs.com/svg.image?{\color{Emerald}E_f(n)}) be an estimate of calculation reduction. 
 <p align="center">
 <img src="https://latex.codecogs.com/svg.image?{\color{Emerald}E_f(n)&space;=&space;\frac{\binom{n}{2}}{n^2}&space;=&space;\frac{n-1}{n^2}}" title="https://latex.codecogs.com/svg.image?{\color{Emerald}E_f(n) = \frac{\binom{n}{2}}{n^2} = \frac{n-1}{n^2}}" />
 </p>
