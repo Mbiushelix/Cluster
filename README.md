@@ -3,7 +3,7 @@ The most central formula in this project is:
 <p align="center">
 <img src="https://latex.codecogs.com/svg.image?{\color{Emerald}F_G&space;=&space;G&space;\cdot&space;\frac{m_1\cdot&space;m_2}{r^2}}" title="https://latex.codecogs.com/svg.image?{\color{Emerald}F_G = G \cdot \frac{m_1\cdot m_2}{r^2}}" />
 </p>
-... which states that the gravitational force between two object depend on the masses of the object and inverse proportional with the distance between the mass centers (CM).
+... which states that the gravitational force between two object depend on the masses of the object and is inverse proportional with the distance between the mass centers (CM).
 
 ### The first algorithm (inefficient): 
 <p align="center">
@@ -11,7 +11,9 @@ The most central formula in this project is:
 </p>
 According to Newton’s law of gravitation, the gravitational force between two objects will be the same. However, the direction of the forces will of course be opposite. As a result, this algorithm would therefore do almost doubled the amount of calculations that are strictly necessary.
 
+
 In C# with Unity: 
+
 
 ```C#
 for (int i = 0; i < particle_num; i++)
@@ -90,6 +92,10 @@ Vector2 GravitationalPull(Rigidbody2D primary_object, Rigidbody2D secondary_obje
 ```
 
 ### How much better you may ask.
-Well, let ${\color{Emarald} E_f(n)}$ be an estimate of calculation reudction. 
+Well, let ${\color{Emarald} E_f(n)}$ be an estimate of calculation reduction. 
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?{\color{Emerald}E_f(n)&space;=&space;\frac{\binom{n}{2}}{n^2}&space;=&space;\frac{n-1}{n^2}}" title="https://latex.codecogs.com/svg.image?{\color{Emerald}E_f(n) = \frac{\binom{n}{2}}{n^2} = \frac{n-1}{n^2}}" />
-![Cluster algorithms](https://user-images.githubusercontent.com/81691774/173637988-3048aeca-6310-477e-ba68-71640d23866d.png)
+</p>
+That means that ...
+
+![Cluster algorithms (1)](https://user-images.githubusercontent.com/81691774/173643502-d04ecb5e-cec5-419d-9bf7-0b3536edc1c4.png)
