@@ -100,4 +100,6 @@ Well, let ![equation](https://latex.codecogs.com/svg.image?{\color{Emerald}E_f(n
 That means that if we have 250 particles to simulate, we will save about 50% computation (31 375 iterations reduced).
 
 
+The image below illustrates the difference between these algorithms: 
+
 ![Cluster algorithms (1)](https://user-images.githubusercontent.com/81691774/173643502-d04ecb5e-cec5-419d-9bf7-0b3536edc1c4.png)
