@@ -3,7 +3,7 @@ The most central formula in this project is:
 <p align="center">
 <img src="https://latex.codecogs.com/svg.image?{\color{Emerald}F_G&space;=&space;G&space;\cdot&space;\frac{m_1\cdot&space;m_2}{r^2}}" title="https://latex.codecogs.com/svg.image?{\color{Emerald}F_G = G \cdot \frac{m_1\cdot m_2}{r^2}}" />
 </p>
-... which states that the gravitational force between two objects is dependent on the masses of the object and inverse proportional to the distance between the mass centres (CM).
+... which states that the gravitational force between two objects depends on both the objects' masses and is inverse proportional to the distance between the mass centers (CM).
 
 ### The first algorithm (inefficient): 
 <p align="center">
