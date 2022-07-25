@@ -1,4 +1,5 @@
 # Cluster
+Available on Simmer.io : https://simmer.io/@Yudhishtiran/cluster-2d 
 The most central formula in this project is:
 <p align="center">
 <img src="https://latex.codecogs.com/svg.image?{\color{Emerald}F_G&space;=&space;G&space;\cdot&space;\frac{m_1\cdot&space;m_2}{r^2}}" title="https://latex.codecogs.com/svg.image?{\color{Emerald}F_G = G \cdot \frac{m_1\cdot m_2}{r^2}}" />
