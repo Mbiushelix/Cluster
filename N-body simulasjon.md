@@ -3,7 +3,7 @@ En computational essay av Yudhishtiran Vajeeston for Elvebakken videregående sk
 
 ### Introduksjon: Hva er galakser?
 
-![[Pasted image 20221118184426.png]] **Bilde 1:** Bildet av en stavspiralgalaksen NGC2336 tatt av NASA/ESA Hubble Space Telescope ([NASA](https://www.nasa.gov/image-feature/goddard/2021/hubble-beholds-a-big-beautiful-blue-galaxy))
+<img src="https://your-image-url.type" width="100" height="100"> **Bilde 1:** Bildet av en stavspiralgalaksen NGC2336 tatt av NASA/ESA Hubble Space Telescope ([NASA](https://www.nasa.gov/image-feature/goddard/2021/hubble-beholds-a-big-beautiful-blue-galaxy))
 
 
 
