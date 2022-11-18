@@ -1,13 +1,13 @@
 # Hvordan simulere galakser?
 En computational essay av Yudhishtiran Vajeeston for Elvebakken videregående skole. 
 
-### Introduksjon: Hva er galakser?
+## Introduksjon: Hva er galakser?
 
 <img src="potw2109a.jpg"> **Bilde 1:** Bildet av en stavspiralgalaksen NGC2336 tatt av NASA/ESA Hubble Space Telescope ([NASA](https://www.nasa.gov/image-feature/goddard/2021/hubble-beholds-a-big-beautiful-blue-galaxy))
 
 
 
-### Utregninger for gravitasjonelle krefter 
+## Utregninger for gravitasjonelle krefter 
 Newtons gravitasjonslov $F_g = \gamma \frac{m_{1}m_2}{r^2}$ gjelder for en tredimensjonal verden. Ettersom denne essayen skal simulere galakser i en todimensjonal verden, må denne formen av gravitasjonsloven endres for å tilpasse behovet. 
 
 Følgelig blir den aktuelle gravitasjonsloven følgende: $F_g=\gamma \frac{m_{1}m_2}{r^2} = \gamma \frac{1}{r^2}$ (husk at alle partiklene har 1 som masse)
@@ -28,18 +28,18 @@ Ved å implementere dette får vi resultatet nedenfor. Fargen er en indikator p�
 
 
 
-### Kollisjoner 
+## Kollisjoner 
 
 
 
 
-### Mørk energi 
+## Mørk energi 
 
 
-### Mørk materie 
+## Mørk materie 
 
 
-### Optimalisering av programmet 
+## Optimalisering av programmet 
 
 
 
